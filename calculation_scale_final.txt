@@ -1,0 +1,9 @@
+Finding Means
+-------------
+Mean of x1 : Σx1/n  = 201/18 = 11.167
+Mean of x2: Σx2/n = 13999/18 = 777.722
+
+
+Standard Deviation (σ) of X1 : sqrt(724.500002/18) = 6.344
+Standard Deviation (σ) of X2 : sqrt(412627.6111/18) = 151.406
+
